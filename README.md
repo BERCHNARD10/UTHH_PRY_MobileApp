@@ -48,15 +48,17 @@ El proyecto utiliza **Git** como sistema de control de versiones y sigue el fluj
 ### Estrategia de Versionamiento:
 - El desarrollo de cada funcionalidad se realiza en ramas **temporales** cortas que se derivan de la rama principal (`main`).
 - Las ramas siguen la convención `feature/nombre-de-la-funcionalidad`. Ejemplos:
-  - `feature/perfil`
-  - `feature/inicio-sesion`
-  - `feature/notificaciones-push`
-  - `feature/materias`
-  - `feature/actividades`
-  - `feature/practicas`
-  - `feature/restablecer-contraseña`
+- `feature/animaciones-funcionalidades`
+- `feature/apis-logica-negocio`
+- `feature/componentes-UI`
+- `feature/limpieza-y-optimizacion-codigo`
+- `feature/mejoras-rendimiento`
+- `feature/navegacion-pantallas`
+- `feature/pantallas-principales`
+- `feature/pruebas-y-optimizacion`
+- `master`
 
-- **Integración frecuente**: Las ramas deben fusionarse rápidamente a `main` una vez que el código haya sido revisado y probado.
+- **Integración frecuente**: Las ramas deben fusionarse rápidamente a `master` una vez que el código haya sido revisado y probado.
 - **Revisión de código**: Se realiza una revisión de código por al menos un miembro del equipo antes de fusionar la rama.
 
 
