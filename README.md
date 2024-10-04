@@ -143,3 +143,40 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- 
+
+
+
+
+
+# Issues y Tareas por Sprint
+
+## Sprint 1 - Definir y Planificar la Aplicación
+| **Descripción del Issue**                                   | **Responsable** | **Fecha de Inicio** | **Fecha de Fin**  | **Sprint** | **Estado**  |
+|-------------------------------------------------------------|-----------------|---------------------|-------------------|------------|-------------|
+| Reunión inicial con el equipo: Definir objetivos generales   | RA              | 02/09/2024          | 08/09/2024        | Sprint 1   | Completado  |
+| Seleccionar herramientas y tecnologías a utilizar            | RA              | 09/09/2024          | 15/09/2024        | Sprint 1   | Completado  |
+| Crear wireframes y mockups                                   | RA              | 16/09/2024          | 22/09/2024        | Sprint 1   | En progreso |
+| Definir estructura de componentes de React                  | RA              | 23/09/2024          | 29/09/2024        | Sprint 1   | Pendiente   |
+
+## Sprint 2 - Desarrollo de la Interfaz de Usuario (UI)
+| **Descripción del Issue**                                   | **Responsable** | **Fecha de Inicio** | **Fecha de Fin**  | **Sprint** | **Estado**  |
+|-------------------------------------------------------------|-----------------|---------------------|-------------------|------------|-------------|
+| Crear los componentes principales de la UI                   | RA              | 23/09/2024          | 29/09/2024        | Sprint 2   | En progreso |
+| Construcción de pantallas principales con pruebas unitarias  | RA              | 30/09/2024          | 13/10/2024        | Sprint 2   | En progreso |
+| Realizar mejoras en el rendimiento general de la app         | RA              | 18/10/2024          | 24/10/2024        | Sprint 2   | Pendiente   |
+
+## Sprint 3 - Desarrollo con Integración y Pruebas Continuas
+| **Descripción del Issue**                                   | **Responsable** | **Fecha de Inicio** | **Fecha de Fin**  | **Sprint** | **Estado**  |
+|-------------------------------------------------------------|-----------------|---------------------|-------------------|------------|-------------|
+| Realizar las pruebas de integración para las pantallas       | RA              | 14/10/2024          | 20/10/2024        | Sprint 3   | Pendiente   |
+| Mejorar la experiencia de usuario según pruebas              | RA              | 11/10/2024          | 17/10/2024        | Sprint 3   | Pendiente   |
+| Limpiar redundancias y optimizar el código                   | RA              | 18/10/2024          | 24/10/2024        | Sprint 3   | Pendiente   |
+| Optimización de la UI y corrección de errores                | RA              | 11/10/2024          | 17/10/2024        | Sprint 3   | Pendiente   |
+
+## Sprint 4 - Preparación para el Lanzamiento
+| **Descripción del Issue**                                   | **Responsable** | **Fecha de Inicio** | **Fecha de Fin**  | **Sprint** | **Estado**  |
+|-------------------------------------------------------------|-----------------|---------------------|-------------------|------------|-------------|
+| Preparar la aplicación para el lanzamiento                   | RA              | 25/10/2024          | 01/11/2024        | Sprint 4   | Pendiente   |
+| Publicación de la aplicación en el sitio web de la empresa   | RA              | 25/10/2024          | 01/11/2024        | Sprint 4   | Pendiente   |
+
